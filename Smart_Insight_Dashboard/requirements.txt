@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+statsmodels
+scikit-learn
+python-dateutil
+openai
+prophet
+watchdog
